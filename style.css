@@ -1,0 +1,7 @@
+body, canvas {
+    margin: 0;
+    overflow: hidden;
+    width: 100vw;
+    height: 100vh;
+    background: black; /* 背景色设置为黑色，使黏菌更明显 */
+}
